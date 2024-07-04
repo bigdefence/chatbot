@@ -25,8 +25,8 @@ Llama3 모델을 기반으로 한 강력하고 유연한 한국어 챗봇 시스
 
 1. 저장소를 클론합니다:
    ```
-   git clone https://github.com/your-username/llama3-korean-chatbot.git
-   cd llama3-korean-chatbot
+   git clone https://github.com/bigdefence/chatbot.git
+   cd chatbot
    ```
 
 2. 필요한 패키지를 설치합니다:
@@ -73,9 +73,9 @@ streamlit run app.py
 
 ## 📞 연락처
 
-프로젝트 관리자 - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+프로젝트 관리자 - [@your_twitter](https://twitter.com/your_twitter) - bigdefence@naver.com
 
-프로젝트 링크: [https://github.com/your-username/llama3-korean-chatbot](https://github.com/your-username/llama3-korean-chatbot)
+프로젝트 링크: [https://github.com/bigdefence/chatbot](https://github.com/bigdefence/chatbot)
 
 ---
 
