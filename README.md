@@ -9,7 +9,7 @@ Llama3 모델을 기반으로 한 강력하고 유연한 한국어 챗봇 시스
 ## ✨ 주요 기능
 
 - 🗣️ 자연스러운 한국어 대화 지원
-- 🧠 Llama3의 강력한 언어 모델 활용
+- 🧠 Llama3의 Bllosom 강력한 언어 모델 활용
 - 🖥️ 직관적인 웹 인터페이스
 - 💾 대화 기록 자동 저장
 - 🔧 쉬운 설정 및 사용
@@ -73,7 +73,7 @@ streamlit run app.py
 
 ## 📞 연락처
 
-프로젝트 관리자 - [@your_twitter](https://twitter.com/your_twitter) - bigdefence@naver.com
+프로젝트 관리자 - bigdefence@naver.com
 
 프로젝트 링크: [https://github.com/bigdefence/chatbot](https://github.com/bigdefence/chatbot)
 
