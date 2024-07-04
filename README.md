@@ -57,6 +57,11 @@ streamlit run app.py
 - [Transformers](https://huggingface.co/transformers/)
 - [Llama3 Model](https://github.com/MLP-KTLim/llama-3-Korean-Bllossom-8B)
 
+## 🙏 감사의 글
+
+- [MLP-KTLim](https://huggingface.co/MLP-KTLim): LLaMA-3-Korean-Bllossom-8B 모델 제공
+- Hugging Face 팀: 놀라운 transformers 라이브러리 개발
+
 ## 🤝 기여하기
 
 프로젝트에 기여하고 싶으시다면 언제든 환영입니다! 다음 단계를 따라주세요:
