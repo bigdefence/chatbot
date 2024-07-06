@@ -71,6 +71,11 @@ streamlit run app.py
 3. 변경사항을 커밋합니다 (`git commit -m 'Add some AmazingFeature'`).
 4. 브랜치에 푸시합니다 (`git push origin feature/AmazingFeature`).
 5. Pull Request를 오픈합니다.
+   
+## 👨‍💻 개발자 정보
+
+- **이름**: 정강빈
+- **버전**: 1.0.0
 
 ## 📄 라이선스
 
